@@ -1,2 +1,5 @@
 # hello_world
-getting to know me
+
+Hi, Everyone!
+
+My name is Christina.  I have four children and I am a high school math teacher.
